@@ -16,3 +16,4 @@ a derpy note-taking app
   - NoteId
   - AssocId
   - NoteContent
+  - CreateTime
